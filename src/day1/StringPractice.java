@@ -8,6 +8,8 @@ public class StringPractice {
         String str= "Java is Fun!";
         System.out.println(str);
         System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
 
     }
 }
